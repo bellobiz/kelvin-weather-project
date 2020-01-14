@@ -13,7 +13,7 @@ With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fah
 
 For example, 283 K converts to 10 °C which converts to 50 °F.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click ** “Get Help“** to see a **project walkthrough video**.
+If you get stuck during this project or would like to see an experienced developer work through it, click **“Get Help“** to see a **project walkthrough video**.
 
 ```
 Tasks
