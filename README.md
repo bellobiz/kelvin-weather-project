@@ -73,3 +73,8 @@ If you’d like extra practice, try this:
 -Use console.log and string interpolation to log the temperature in newton to the console
 
 [Get Help](https://youtu.be/WlA1gy6fpgY)
+
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/WlA1gy6fpgY" type="video/mp4">
+Your browser does not support the video tag.
+</video>
